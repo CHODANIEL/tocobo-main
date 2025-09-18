@@ -40,7 +40,7 @@ header {
           display: block;
           margin-right: 4rem;
           font-size: 1.8rem;
-          color: #dc272d;
+          color: #1d3dbb;
           position: relative;
           cursor: pointer;
 
@@ -49,7 +49,7 @@ header {
             content: "";
             width: 0%;
             height: .1rem;
-            background-color: #dc272d;
+            background-color: #133c86;
             position: absolute;
             bottom: -.5rem;
             transition: width .3s ease;
@@ -92,7 +92,7 @@ header {
 
   @media screen and (max-width:1111px) {
     height: 6.3rem;
-    
+
     .inner {
       padding: 0 2rem;
 

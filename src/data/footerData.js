@@ -1,12 +1,12 @@
 export const footerCompany ={
   logo: "img/logo.svg",
-  ceo: "안주영",
-  address: "03966 서울특별시 마포구 월드컵북로15길 45 (성산동)",
+  ceo: "***",
+  address: "03966 서울특별시 *****",
   bizNum: "196-81-02410",
-  salesReport: "제2021-서울마포-2994호",
-  privacyOfficer: "안주영",
+  salesReport: "*****",
+  privacyOfficer: "***",
   tel: "02-6352-2410",
-  email: "help@thepicton.com",
+  email: "naver.com",
   copyright: "COPYRIGHT© 2021 TOCOBO. ALL RIGHT RESERVED."
 }
 
